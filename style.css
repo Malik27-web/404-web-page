@@ -1,0 +1,147 @@
+*{
+margin: 0;
+padding: 0;
+}
+h2{
+color: #333;
+font-family: 'Inconsolata', monospace;
+font-size: 24px;
+font-weight: 700;
+line-height: 25.18px;
+text-transform: uppercase;
+position: absolute;
+left: 24px;
+top: 20px;
+}
+img{
+
+width: 100%;
+padding-top: 50px;
+}
+.bad-news{
+
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 71.09px;
+    position: absolute;
+    left: 24px;
+    top: 407px;
+
+}
+.paragraph{
+
+    font-family: 'Space Mono', monospace;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26.66px;
+    color: #4f4f4f;
+    position: absolute;
+    left: 24px;
+    top: 661px;
+
+}
+.back-home-page{
+
+width: 216px;
+height: 68px;
+background-color: #333;
+position: relative;
+top: 401px;
+left: 24px;
+}
+.back-home-page p{
+
+
+font-size: 14px;
+font-weight: 700;
+font-family: 'Space Mono', monospace;
+line-height: 20.73px;
+color: white;
+position: absolute;
+top: 39px;
+left: 39px;
+text-transform: uppercase;
+letter-spacing: -0.035em;
+}
+footer{
+position: absolute;
+top: 900px;
+left: 24px;
+height: 68px;
+
+
+}
+@media only screen and (min-width:1000px) { 
+
+h2{
+
+    color: #333;
+    font-family: 'Inconsolata', monospace;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 25.18px;
+    text-transform: uppercase;
+    position: absolute;
+    left: 40px;
+    top: 77px;
+}
+img{
+    width: 539.22px;
+    height: 447.43px;
+    top: 230px;
+    left: 29px;
+    position: absolute;
+}
+.bad-news{
+
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 94.78px;
+    position: absolute;
+    left: 735px;
+    top: 265px;
+    width: 586px;
+    height: 190px;
+
+}
+.paragraph{
+
+    font-family: 'Space Mono', monospace;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35.54px;
+    color: #4f4f4f;
+    position: absolute;
+    left: 736px;
+    top: 491px;
+    width: 381px;
+    height: 108px;
+    letter-spacing: -0.035em;
+}
+
+.back-home-page{
+
+    width: 216px;
+    height: 68px;
+    top: 663px;
+    left: 740px;
+    background-color: #333;
+    position: absolute;
+    }
+.back-home-page p{
+
+
+    font-size: 14px;
+font-weight: 700;
+font-family: 'Space Mono', monospace;
+line-height: 20.73px;
+color: white;
+position: absolute;
+top: 24px;
+left: 39px;
+text-transform: uppercase;
+letter-spacing: -0.035em;
+}
+  }
